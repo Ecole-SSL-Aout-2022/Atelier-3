@@ -1,0 +1,350 @@
+{
+	"BUILD_DIR" : "/home/felix/git/ssl-vision/build/vision_autogen",
+	"CMAKE_BINARY_DIR" : "/home/felix/git/ssl-vision/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/felix/git/ssl-vision/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/felix/git/ssl-vision",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_SOURCE_DIR" : "/home/felix/git/ssl-vision",
+	"HEADERS" : 
+	[
+		[
+			"/home/felix/git/ssl-vision/src/app/capture_thread.h",
+			"Mu",
+			"ISMKEKEPX5/moc_capture_thread.cpp"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/framedata.h",
+			"Mu",
+			"ISMKEKEPX5/moc_framedata.cpp"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/gui/automatedcolorcalibwidget.h",
+			"Mu",
+			"4S5CO7HURA/moc_automatedcolorcalibwidget.cpp"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/gui/cameracalibwidget.h",
+			"Mu",
+			"4S5CO7HURA/moc_cameracalibwidget.cpp"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/gui/colorpicker.h",
+			"Mu",
+			"4S5CO7HURA/moc_colorpicker.cpp"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/gui/glLUTwidget.h",
+			"Mu",
+			"4S5CO7HURA/moc_glLUTwidget.cpp"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/gui/glwidget.h",
+			"Mu",
+			"4S5CO7HURA/moc_glwidget.cpp"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/gui/jog_dial.h",
+			"Mu",
+			"4S5CO7HURA/moc_jog_dial.cpp"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/gui/lutwidget.h",
+			"Mu",
+			"4S5CO7HURA/moc_lutwidget.cpp"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/gui/mainwindow.h",
+			"Mu",
+			"4S5CO7HURA/moc_mainwindow.cpp"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/gui/maskwidget.h",
+			"Mu",
+			"4S5CO7HURA/moc_maskwidget.cpp"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/gui/realtimedisplaywidget.h",
+			"Mu",
+			"4S5CO7HURA/moc_realtimedisplaywidget.cpp"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/gui/renderoptions.h",
+			"Mu",
+			"4S5CO7HURA/moc_renderoptions.cpp"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/gui/videowidget.h",
+			"Mu",
+			"4S5CO7HURA/moc_videowidget.cpp"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/plugins/plugin_auto_color_calibration.h",
+			"Mu",
+			"VCGTO52PE7/moc_plugin_auto_color_calibration.cpp"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/plugins/plugin_cameracalib.h",
+			"Mu",
+			"VCGTO52PE7/moc_plugin_cameracalib.cpp"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/plugins/plugin_colorcalib.h",
+			"Mu",
+			"VCGTO52PE7/moc_plugin_colorcalib.cpp"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/plugins/plugin_colorthreshold.h",
+			"Mu",
+			"VCGTO52PE7/moc_plugin_colorthreshold.cpp"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/plugins/plugin_detect_balls.h",
+			"Mu",
+			"VCGTO52PE7/moc_plugin_detect_balls.cpp"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/plugins/plugin_detect_robots.h",
+			"Mu",
+			"VCGTO52PE7/moc_plugin_detect_robots.cpp"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/plugins/plugin_dvr.h",
+			"Mu",
+			"VCGTO52PE7/moc_plugin_dvr.cpp"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/plugins/plugin_find_blobs.h",
+			"Mu",
+			"VCGTO52PE7/moc_plugin_find_blobs.cpp"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/plugins/plugin_legacypublishgeometry.h",
+			"Mu",
+			"VCGTO52PE7/moc_plugin_legacypublishgeometry.cpp"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/plugins/plugin_legacysslnetworkoutput.h",
+			"Mu",
+			"VCGTO52PE7/moc_plugin_legacysslnetworkoutput.cpp"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/plugins/plugin_mask.h",
+			"Mu",
+			"VCGTO52PE7/moc_plugin_mask.cpp"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/plugins/plugin_publishgeometry.h",
+			"Mu",
+			"VCGTO52PE7/moc_plugin_publishgeometry.cpp"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/plugins/plugin_runlength_encode.h",
+			"Mu",
+			"VCGTO52PE7/moc_plugin_runlength_encode.cpp"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/plugins/plugin_sslnetworkoutput.h",
+			"Mu",
+			"VCGTO52PE7/moc_plugin_sslnetworkoutput.cpp"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/plugins/plugin_visualize.h",
+			"Mu",
+			"VCGTO52PE7/moc_plugin_visualize.cpp"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/plugins/visionplugin.h",
+			"Mu",
+			"VCGTO52PE7/moc_visionplugin.cpp"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/stacks/multistack_robocup_ssl.h",
+			"Mu",
+			"P7FRZUMULK/moc_multistack_robocup_ssl.cpp"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/stacks/multivisionstack.h",
+			"Mu",
+			"P7FRZUMULK/moc_multivisionstack.cpp"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/stacks/stack_robocup_ssl.h",
+			"Mu",
+			"P7FRZUMULK/moc_stack_robocup_ssl.cpp"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/stacks/visionstack.h",
+			"Mu",
+			"P7FRZUMULK/moc_visionstack.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/felix/git/ssl-vision/build/vision_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/felix/git/ssl-vision/build/vision_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"PYLON5",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NO_DEBUG",
+		"QT_OPENGL_LIB",
+		"QT_WIDGETS_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/felix/git/ssl-vision/build",
+		"/home/felix/git/ssl-vision",
+		"/usr/include/eigen3",
+		"/home/felix/git/ssl-vision/src/shared/capture",
+		"/home/felix/git/ssl-vision/src/shared/cmvision",
+		"/home/felix/git/ssl-vision/src/shared/cmpattern",
+		"/home/felix/git/ssl-vision/src/shared/gl",
+		"/home/felix/git/ssl-vision/src/shared/net",
+		"/home/felix/git/ssl-vision/src/shared/util",
+		"/home/felix/git/ssl-vision/src/shared/vartypes",
+		"/home/felix/git/ssl-vision/src/shared/vartypes/primitives",
+		"/home/felix/git/ssl-vision/src/shared/vartypes/enhanced",
+		"/home/felix/git/ssl-vision/src/shared/vartypes/gui",
+		"/home/felix/git/ssl-vision/src/shared/vartypes/xml",
+		"/home/felix/git/ssl-vision/src/app",
+		"/home/felix/git/ssl-vision/src/app/gui",
+		"/home/felix/git/ssl-vision/src/app/plugins",
+		"/home/felix/git/ssl-vision/src/app/stacks",
+		"/usr/include/opencv4",
+		"/opt/pylon5/include",
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtWidgets",
+		"/usr/include/x86_64-linux-gnu/qt5/QtGui",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/x86_64-linux-gnu/qt5/QtOpenGL",
+		"/usr/include",
+		"/usr/include/c++/9",
+		"/usr/include/x86_64-linux-gnu/c++/9",
+		"/usr/include/c++/9/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/9/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/felix/git/ssl-vision/build/vision_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/home/felix/git/ssl-vision/build/CMakeFiles/vision_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"SETTINGS_FILE" : "/home/felix/git/ssl-vision/build/CMakeFiles/vision_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/home/felix/git/ssl-vision/src/app/capture_thread.cpp", "Mu" ],
+		[ "/home/felix/git/ssl-vision/src/app/framedata.cpp", "Mu" ],
+		[
+			"/home/felix/git/ssl-vision/src/app/gui/automatedcolorcalibwidget.cpp",
+			"Mu"
+		],
+		[ "/home/felix/git/ssl-vision/src/app/gui/cameracalibwidget.cpp", "Mu" ],
+		[ "/home/felix/git/ssl-vision/src/app/gui/colorpicker.cpp", "Mu" ],
+		[ "/home/felix/git/ssl-vision/src/app/gui/glLUTwidget.cpp", "Mu" ],
+		[ "/home/felix/git/ssl-vision/src/app/gui/glwidget.cpp", "Mu" ],
+		[ "/home/felix/git/ssl-vision/src/app/gui/jog_dial.cpp", "Mu" ],
+		[ "/home/felix/git/ssl-vision/src/app/gui/lutwidget.cpp", "Mu" ],
+		[ "/home/felix/git/ssl-vision/src/app/gui/mainwindow.cpp", "Mu" ],
+		[ "/home/felix/git/ssl-vision/src/app/gui/maskwidget.cpp", "Mu" ],
+		[
+			"/home/felix/git/ssl-vision/src/app/gui/realtimedisplaywidget.cpp",
+			"Mu"
+		],
+		[ "/home/felix/git/ssl-vision/src/app/gui/renderoptions.cpp", "Mu" ],
+		[ "/home/felix/git/ssl-vision/src/app/gui/videowidget.cpp", "Mu" ],
+		[ "/home/felix/git/ssl-vision/src/app/main.cpp", "Mu" ],
+		[
+			"/home/felix/git/ssl-vision/src/app/plugins/plugin_auto_color_calibration.cpp",
+			"Mu"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/plugins/plugin_cameracalib.cpp",
+			"Mu"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/plugins/plugin_colorcalib.cpp",
+			"Mu"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/plugins/plugin_colorthreshold.cpp",
+			"Mu"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/plugins/plugin_detect_balls.cpp",
+			"Mu"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/plugins/plugin_detect_robots.cpp",
+			"Mu"
+		],
+		[ "/home/felix/git/ssl-vision/src/app/plugins/plugin_dvr.cpp", "Mu" ],
+		[
+			"/home/felix/git/ssl-vision/src/app/plugins/plugin_find_blobs.cpp",
+			"Mu"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/plugins/plugin_legacypublishgeometry.cpp",
+			"Mu"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/plugins/plugin_legacysslnetworkoutput.cpp",
+			"Mu"
+		],
+		[ "/home/felix/git/ssl-vision/src/app/plugins/plugin_mask.cpp", "Mu" ],
+		[
+			"/home/felix/git/ssl-vision/src/app/plugins/plugin_publishgeometry.cpp",
+			"Mu"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/plugins/plugin_runlength_encode.cpp",
+			"Mu"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/plugins/plugin_sslnetworkoutput.cpp",
+			"Mu"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/plugins/plugin_visualize.cpp",
+			"Mu"
+		],
+		[ "/home/felix/git/ssl-vision/src/app/plugins/visionplugin.cpp", "Mu" ],
+		[
+			"/home/felix/git/ssl-vision/src/app/stacks/multistack_robocup_ssl.cpp",
+			"Mu"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/stacks/multivisionstack.cpp",
+			"Mu"
+		],
+		[
+			"/home/felix/git/ssl-vision/src/app/stacks/stack_robocup_ssl.cpp",
+			"Mu"
+		],
+		[ "/home/felix/git/ssl-vision/src/app/stacks/visionstack.cpp", "Mu" ]
+	],
+	"VERBOSITY" : 0
+}
